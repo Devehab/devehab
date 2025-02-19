@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm EHAB Kahwati 👋 
+# Hi there, I'm EHAB KAHWATI 👋 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Web+%26+Browser+Extensions;Always+Learning+%26+Growing" alt="Typing SVG" />
